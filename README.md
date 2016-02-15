@@ -32,4 +32,4 @@ Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru,
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-+|02/15/2016 | | |
+|02/15/2016 | | |
