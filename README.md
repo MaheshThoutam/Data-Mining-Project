@@ -1,5 +1,5 @@
 ###Data Mining Project
-#########Using other Awards to predict Oscar winners
+#####Using other Awards to predict Oscar winners
 ============================================================
 
 ## OVERVIEW
