@@ -2,13 +2,13 @@
 Using other Awards to predict Oscar winners
 ============================================================
 
-# OVERVIEW
+## OVERVIEW
 Oscar it been the most awaited prestigious awarding ceremony for movie lovers across the globe and we would like to consider the other award ceremony that were given out in the run-up to the Oscars. We use this data and predict the Best Director, Best Film, Best Actor, Best Actress and Best Actor in Supporting role and Best Actress in supporting role. 
 
 We would give weights to each of these awards in the selected categories. These weights would be based on previous year’s data. Like for example Agro won Oscar for best film in previous year. We would give more weightage to the awards above who have selected Argo as best picture in that year. Similarly we would do this kind of analysis on previous years and finally predict Oscars using those weights for this year.
 
 
-# DATA
+## DATA
 We are planning to follow these awards from the following websites data 
 
 1. Directors Guild of America (Add the website by Searching on google)
@@ -24,23 +24,23 @@ We are planning to follow these awards from the following websites data
 11. NY film Critics circle (Add the website by Searching on google)
 
 
-# RESEARCH QUESTIONS
+## RESEARCH QUESTIONS
 We would like to predict the Oscar for this year by using the above data from different awarding sites by Retrieving Winners of above mentioned awards from their websites for the past 5 years.
  Perform clustering algorithms on them to see their distances from Oscars. The reciprocal of distances would be our weights
  Using the above weights over the years predict Oscars of this year. From this year’s awards data.
 
-# MODELS AND ANALYSIS
+## MODELS AND ANALYSIS
 We are planning our models and preliminary analyses will be performed in a Jupyter Notebook and development in python.
 
 
-# CODE AND APPLICATION
+## CODE AND APPLICATION
 We are considering to collaborate on developing the Web API and implementation of code and post the code in our GitHub repository and instructions on installation are in the README.md file at the root level.
 
 
-# PROJECT MANAGEMENT
+## PROJECT MANAGEMENT
 Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru, Mahesh Thoutam, Dayakar Pattipati, Srinitha Koralla. we will be sharing our work among ourselves. Varun Reddy will be taking care of development and data analysis. Sai Abhijith and Mahesh will be working on Back end work consisted of an API that was created to provide data to the front end. And Writing O Auth script to pull linked in Connections. Dayakar and Srinitha would work on data set, data analysis and UI development and together we are collaborating to check the progress of the project testing. 
 
-# PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
+## PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
 
 ## TEAM
 
