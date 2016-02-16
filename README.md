@@ -55,5 +55,5 @@ Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru,
 
 | Checkpoint date | Expected Deliverable                                                          | Responsibles Team Members(s) | Checkpoint results                                                                                                                  |
 |-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|02/15/2016 |Using other Awards to predict Oscar winners (analysing and collecting the data about our project details  | All team members  | Check point 1 completed|
+|02/15/2016 |Using other Awards to predict Oscar winners (analysing and collecting the data about our project details)  | All team members  | Check point 1 completed|
 
