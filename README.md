@@ -2,7 +2,7 @@
 Using other Awards to predict Oscar winners
 ============================================================
 
-# OVERVIEW+
+# OVERVIEW
 Oscar it been the most awaited prestigious awarding ceremony for movie lovers across the globe and we would like to consider the other award ceremony that were given out in the run-up to the Oscars. We use this data and predict the Best Director, Best Film, Best Actor, Best Actress and Best Actor in Supporting role and Best Actress in supporting role. 
 
 We would give weights to each of these awards in the selected categories. These weights would be based on previous year’s data. Like for example Agro won Oscar for best film in previous year. We would give more weightage to the awards above who have selected Argo as best picture in that year. Similarly we would do this kind of analysis on previous years and finally predict Oscars using those weights for this year.
