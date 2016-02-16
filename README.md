@@ -1,5 +1,5 @@
 #Data Mining Project
-Using other Awards to predict Oscar winners
+####Using other Awards to predict Oscar winners
 ============================================================
 
 ## OVERVIEW
@@ -40,7 +40,7 @@ We are considering to collaborate on developing the Web API and implementation o
 ## PROJECT MANAGEMENT
 Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru, Mahesh Thoutam, Dayakar Pattipati, Srinitha Koralla. we will be sharing our work among ourselves. Varun Reddy will be taking care of development and data analysis. Sai Abhijith and Mahesh will be working on Back end work consisted of an API that was created to provide data to the front end. And Writing O Auth script to pull linked in Connections. Dayakar and Srinitha would work on data set, data analysis and UI development and together we are collaborating to check the progress of the project testing. 
 
-## PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
+### PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
 
 ## TEAM
 
