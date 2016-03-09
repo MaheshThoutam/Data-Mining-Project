@@ -56,4 +56,6 @@ Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru,
 | Checkpoint date | Expected Deliverable                                                          | Responsibles Team Members(s) | Checkpoint results                                                                                                                  |
 |-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |02/15/2016 |Using other Awards to predict Oscar winners (analysing and collecting the data about our project details)  | All team members  | Check point 1 completed| 
+| 03-08-2016| Creating  a template on how data is collected, like how many points for winners, nominees and cases of tie, Creating a common template for all awards on how it needs to be stored, for example what is the index and what are the columns etc, Collected data from Wikipedia of winners and nominees.This is a big task as the data is not at one place and we are going back to 2005 data.| Varun Reddy, Sai Abhijith & Mahesh Thoutam| Analysed data from the other awards till now & developed the algorithm|
+
 
