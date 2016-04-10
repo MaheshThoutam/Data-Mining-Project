@@ -9,17 +9,17 @@ We would give weights to each of these awards in the selected categories. These 
 ## DATA
 We are planning to follow these awards from the following websites data 
 
-1. Directors Guild of America (Add the website by Searching on google)
-2. Producers Guild of America (Add the website by Searching on google)
-3. Screen Actors Guild (Add the website by Searching on google)
-4. Bafta (Add the website by Searching on google)
-5. Writers guild of America (Add the website by Searching on google)
-6. Golden Globe (Add the website by Searching on google)
-7. American Cinema Editors (Add the website by Searching on google)
-8. Critics Choice movie Awards (Add the website by Searching on google)
-9. Chicago film Critics Association (Add the website by Searching on google.
-10. National Board of Review (Add the website by Searching on google)
-11. NY film Critics circle (Add the website by Searching on google)
+1. Directors Guild of America (http://www.dga.org/)
+2. Producers Guild of America (http://www.producersguild.org/)
+3. Screen Actors Guild (http://www.sagawards.org/)
+4. Bafta (http://awards.bafta.org/)
+5. Writers guild of America (http://www.wga.org/)
+6. Golden Globe (http://www.goldenglobes.com/)
+7. American Cinema Editors (https://americancinemaeditors.org/)
+8. Critics Choice movie Awards (http://www.criticschoice.com/movie-awards/)
+9. Chicago film Critics Association (http://www.chicagofilmcritics.org/)
+10. National Board of Review (http://www.nationalboardofreview.org/)
+11. NY film Critics circle (http://www.nyfcc.com/)
 
 
 ## RESEARCH QUESTIONS
