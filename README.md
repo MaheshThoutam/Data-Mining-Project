@@ -59,8 +59,7 @@ Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru,
 | 03-08-2016| Creating  a template on how data is collected, like how many points for winners, nominees and cases of tie, Creating a common template for all awards on how it needs to be stored, for example what is the index and what are the columns etc, Collected data from Wikipedia of winners and nominees.This is a big task as the data is not at one place and we are going back to 2005 data.| Varun Reddy, Sai Abhijith & Mahesh Thoutam| Analysed data from the other awards till now & developed the algorithm|
 | 04-11-2016 | we have completed data segregation of best film form other awards and have project the final result of best film prediction for Oscar's from our data .And, further we have completed data collection for different categories of Oscar's and planning to complete the prediction of these categories in future checkpoints.| Varun Reddy, Sai Abhijith | Mini Check point completer |
 | 04-18-2015 | We have completed the data collection from past 2 weeks and done predicting the oscar prediction from other awards for best film , best actor , best actress by implementing  linear regression in Python using scikit-learn model  and by 25th we are planing to complete the same for best actress in supporting and best actor in supporting | All team members | CCheckpoint 3 completed|
-| 04-25-2016 | we have completed Oscar prediction for best director ,best actress in supporting and best actor in supporting roles |
-Srinitha Koralla,Mahesh Thoutam | Check point 4 completed| 
+| 04-25-2016 | we have completed Oscar prediction for best director ,best actress in supporting and best actor in supporting roles|Srinitha Koralla,Mahesh Thoutam | Check point 4 completed| 
 
 
 
