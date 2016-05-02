@@ -60,6 +60,6 @@ Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru,
 | 04-11-2016 | we have completed data segregation of best film form other awards and have project the final result of best film prediction for Oscar's from our data .| Varun Reddy, Sai Abhijith | Further we have completed data collection for different categories of Oscar's and planning to complete the prediction of these categories in future checkpoints.|
 | 04-18-2015 | We have completed the data collection from past 2 weeks and done predicting the oscar prediction from other awards for best film , best actor , best actress by implementing  linear regression in Python using scikit-learn model .| All team members | by 25th we are planing to complete the same for best actress in supporting and best actor in supporting |
 | 04-25-2016 | we have completed Oscar prediction for best director ,best actress in supporting and best actor in supporting roles|Srinitha Koralla,Mahesh Thoutam | We would clean and correct our FINAL DOCUMENTATION | 
-| 05-01-2015 | Even though the approach is in a traditional way it was interesting when our prediction results for a few awards categories are correct. | All team members  | 
+| 05-01-2015 | Even though the approach is in a traditional way it was interesting when our prediction results for a few awards categories are correct. | All team members  | We did upload final project to the blackboard with all the required file. |
 
 
