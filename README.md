@@ -45,8 +45,8 @@ Our team consists of five members, Varun Reddy Sallagonda, Sai Abhijith Kowluru,
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
 | Varun Reddy Sallagonda | Data analysis, Testing | data analysis, Testing, build scripts |
-| Sai Abhijith Kowluru  | Web API ,data analysis, Python | development, data analysis, Python | 
-| Mahesh Thoutam | Web API ,data analysis, Python | development, data analysis, Python |
+| Sai Abhijith Kowluru  | data analysis, Python | development, data analysis, Python | 
+| Mahesh Thoutam | data analysis, Python | development, data analysis, Python |
 | Dayakar Pattipati| Testing, Data analysis | Data analysis, test harness |
 | Srinitha Koralla| Testing, Data analysis  | Data analysis, test harness |
 
