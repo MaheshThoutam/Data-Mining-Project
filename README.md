@@ -1,5 +1,5 @@
-###Data Mining Project
-#####Using other Awards to predict Oscar winners
+#####Data Mining Project
+#######Using other Awards to predict Oscar winners
 ============================================================
 
 ## OVERVIEW
@@ -11,6 +11,7 @@ In the a world of cinema there is always a number one place for the academy awar
 In this project we are trying to predict the academy awards by collecting the data from the other awards which are equally famous .but the results are out in advance then the Oscar award.
 So from other awards we have collected data for best director, best actor, best actress, best actor in supporting role, best actress in supporting role and finally best film from the previous year’s data of other awards.
 We have given a weightage of 5 points for a winner, 1 for a nomination, 0 for not considered for individual category in each awarding ceremony results.
+
 We are planning to follow these awards from the following websites data 
 
 1. Directors Guild of America (http://www.dga.org/)
