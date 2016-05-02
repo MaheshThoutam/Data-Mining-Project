@@ -12,6 +12,7 @@ In this project we are trying to predict the academy awards by collecting the da
 So from other awards we have collected data for best director, best actor, best actress, best actor in supporting role, best actress in supporting role and finally best film from the previous year’s data of other awards.
 We have given a weightage of 5 points for a winner, 1 for a nomination, 0 for not considered for individual category in each awarding ceremony results.
 We are planning to follow these awards from the following websites data 
+
 1. Directors Guild of America (http://www.dga.org/)
 2. Producers Guild of America (http://www.producersguild.org/)
 3. Screen Actors Guild (http://www.sagawards.org/)
