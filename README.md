@@ -7,8 +7,11 @@ Oscar it been the most awaited prestigious awarding ceremony for movie lovers ac
 We would give weights to each of these awards in the selected categories. These weights would be based on previous year’s data. Like for example Agro won Oscar for best film in previous year. We would give more weightage to the awards above who have selected Argo as best picture in that year. Similarly we would do this kind of analysis on previous years and finally predict Oscars using those weights for this year.
 
 ## DATA
+In the a world of cinema there is always a number one place for the academy awards .Where all round the globe its every artists ,production house , directors’ and moreover the world movies lovers have a curiosity to know the academy award winners in advance .
+In this project we are trying to predict the academy awards by collecting the data from the other awards which are equally famous .but the results are out in advance then the Oscar award.
+So from other awards we have collected data for best director, best actor, best actress, best actor in supporting role, best actress in supporting role and finally best film from the previous year’s data of other awards.
+We have given a weightage of 5 points for a winner, 1 for a nomination, 0 for not considered for individual category in each awarding ceremony results.
 We are planning to follow these awards from the following websites data 
-
 1. Directors Guild of America (http://www.dga.org/)
 2. Producers Guild of America (http://www.producersguild.org/)
 3. Screen Actors Guild (http://www.sagawards.org/)
@@ -29,6 +32,10 @@ We would like to predict the Oscar for this year by using the above data from di
 
 ## MODELS AND ANALYSIS
 We are planning our models and preliminary analyses will be performed in a Jupyter Notebook and development in python.
+We have collected the previous year’s data from other awards manually from each individual award results and for every individual category award prediction we have divided the prediction data and previous data files separately.
+Here we have fit the data frame and used scikit-learn linear regression model to predict the winner weightage result and followed similar approach towards the all the categories of awards prediction.
+It took time for our team for data collection as the template creation for all awards were collected from Wikipedia to list of winners and nominees this was a bigger task.
+
 
 
 ## CODE AND APPLICATION
